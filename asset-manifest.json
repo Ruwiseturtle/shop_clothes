@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ruwiseturtle/shop_clothes/static/css/main.1863bd20.css",
-    "main.js": "/Ruwiseturtle/shop_clothes/static/js/main.57e7db8b.js",
-    "static/js/453.ad73e9c4.chunk.js": "/Ruwiseturtle/shop_clothes/static/js/453.ad73e9c4.chunk.js",
-    "index.html": "/Ruwiseturtle/shop_clothes/index.html",
-    "main.1863bd20.css.map": "/Ruwiseturtle/shop_clothes/static/css/main.1863bd20.css.map",
-    "main.57e7db8b.js.map": "/Ruwiseturtle/shop_clothes/static/js/main.57e7db8b.js.map",
-    "453.ad73e9c4.chunk.js.map": "/Ruwiseturtle/shop_clothes/static/js/453.ad73e9c4.chunk.js.map"
+    "main.css": "/shop_clothes/static/css/main.1863bd20.css",
+    "main.js": "/shop_clothes/static/js/main.678d4c0f.js",
+    "static/js/453.ad73e9c4.chunk.js": "/shop_clothes/static/js/453.ad73e9c4.chunk.js",
+    "index.html": "/shop_clothes/index.html",
+    "main.1863bd20.css.map": "/shop_clothes/static/css/main.1863bd20.css.map",
+    "main.678d4c0f.js.map": "/shop_clothes/static/js/main.678d4c0f.js.map",
+    "453.ad73e9c4.chunk.js.map": "/shop_clothes/static/js/453.ad73e9c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1863bd20.css",
-    "static/js/main.57e7db8b.js"
+    "static/js/main.678d4c0f.js"
   ]
 }
