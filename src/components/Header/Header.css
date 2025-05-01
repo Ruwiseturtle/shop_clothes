@@ -1,0 +1,87 @@
+.container-header{
+    width: 1240px;
+    height: 48px;
+    margin-top: 42px;
+    background-color: white;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.Logo{
+    font-size: 32px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.list-to-choose{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 24px;
+    padding-left: 0;
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.searchImg{
+    position: absolute;
+    top: calc(24px - 12px);
+    left: 16px;
+    width: 24px;
+    height: 24px;
+}
+
+/*  */
+.search-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 610px;
+    /* width: calc(610px - 52px); */
+    height: 48px;
+    /* background-color: red; */
+    border-radius: 16px;
+ 
+}
+
+.search-container input{
+    width: calc(100% - 52px);
+   height: calc(100% - 2px);
+   border-radius: 16px;
+   border: none;
+   background-color: rgb(233, 233, 233);
+   outline: none;
+   padding-left: 52px;
+}
+
+.container-icons{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+}
+
+.container-basket{
+    width: 24px;
+    height: 24px;
+}
+
+.basket{
+    width: 100%;
+    height: 100%;
+
+}
+
+.container-avatarImage{
+     width: 24px;
+     height: 24px;
+}
+.avatarImage{
+    width: 100%;
+    height: 100%;
+}
