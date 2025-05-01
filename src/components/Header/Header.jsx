@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
 import "./Header.css";
 import basketImage from "../../assets/images/Frame.png";
 import avatarImage from "../../assets/images/Vector.png";
 import searchImage from "../../assets/images/Search.png";
 
+// some comment
 const Header = () => {
   return (
     <header className="container-header">
@@ -45,6 +46,6 @@ const Header = () => {
       </div>
     </header>
   );
-}
+};
 
-export default Header
+export default Header;
