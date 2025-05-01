@@ -2,7 +2,7 @@
   "name": "shop_clothes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Ruwiseturtle/shop_clothes",
+  "homepage": "https://ruwiseturtle.github.io/shop_clothes",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
