@@ -1,9 +1,8 @@
 .container-header{
     width: 1240px;
     height: 48px;
-    margin-top: 42px;
     background-color: white;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-left: auto;
     margin-right: auto;
     color: black;
@@ -12,6 +11,8 @@
     justify-content: space-between;
     align-items: center;
     gap: 40px;
+    margin-top: 12px;
+    margin-bottom: 24px;
 }
 
 .Logo{
@@ -46,16 +47,16 @@
     /* width: calc(610px - 52px); */
     height: 48px;
     /* background-color: red; */
-    border-radius: 16px;
+    border-radius: 26px;
  
 }
 
 .search-container input{
     width: calc(100% - 52px);
    height: calc(100% - 2px);
-   border-radius: 16px;
+   border-radius: 26px;
    border: none;
-   background-color: rgb(233, 233, 233);
+   background-color: #F0F0F0;
    outline: none;
    padding-left: 52px;
 }

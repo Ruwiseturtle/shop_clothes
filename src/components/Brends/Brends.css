@@ -1,0 +1,8 @@
+.container-brends{
+    width: 1240px;
+    height: 122px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+    background-color: black;
+}
