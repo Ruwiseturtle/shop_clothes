@@ -1,6 +1,33 @@
 .container-banner{
-    width: 100vw;
     height: 38px;
     background-color: black;
     color: white;
+}
+
+.banner{
+    position: relative;
+     width: 1240px;
+     height: 100%;
+     border: 1px solid red;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.banner-text{
+   display: flex;
+   height: 100%;
+   align-items: center;
+   text-align: center;
+   justify-content: center;
+}
+
+.closeImage{
+    width: 20px;
+    height: 20px;
+}
+
+.container-closeImage{
+    position: absolute;
+    right: 0;
+    top: 9px;
 }
