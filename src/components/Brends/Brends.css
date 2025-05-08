@@ -1,8 +1,79 @@
 .container-brends{
+   /* width: 1240px; */
+    height: 122px;
+    background-color: black; 
+}
+
+.box-brends{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     width: 1240px;
     height: 122px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid red;
-    background-color: black;
+    /* border: 1px solid red; */
+    color: white;
+}
+
+.container-brends p{
+    margin: 0;
+    height: 100%;
+    margin-bottom: 42px;
+}
+
+/* шрифти */
+
+.Versage{
+    font-family: 'Trajan Pro', serif; /* або подібний до Radiant */
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.05em;
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.Zara{
+    font-family: 'Didot', serif; /* або схожий: 'Playfair Display' */
+font-size: 28px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.Gucci{
+    font-family: 'Garamond', serif; /* або Google аналог: 'EB Garamond' */
+font-size: 28px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0.03em;
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.Prada{
+    font-family: 'Engravers MT', serif; /* або подібний */
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.06em;
+color: #ffffff;
+text-transform: uppercase;
+}
+
+.Calvin-klein{
+    font-family: 'Helvetica Neue', sans-serif; /* або Google аналог: 'Roboto' або 'Work Sans' */
+font-size: 28px;
+font-weight: 300;
+line-height: 36px;
+letter-spacing: 0em;
+color: #ffffff;
+text-transform: none
+}
+
+.container-brends p{
+    margin-bottom: 0;
 }
